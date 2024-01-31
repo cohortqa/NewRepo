@@ -1,2 +1,4 @@
 # NewRepo
-Tis repository has a readme file.
+This repository has a readme file.
+
+this is a demo example.
